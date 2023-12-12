@@ -12,5 +12,5 @@ All functions are tested in `tests`.
 For example, five test cases for `stableMatching/libs/runAlgo.m` are validated in `tests/runAlgoTest.m`.
 
 ## Example
-Execution for dummy data are done in `stableMatching/stableMtchDummy.mlx`
+Execution of the algorithm for dummy data are done in `stableMatching/stableMtchDummy.mlx`
 
