@@ -9,7 +9,7 @@ The main algorithm is defined in `stableMatching/libs/runAlgo.m`, and other func
 
 ## Test
 All functions are tested in `tests`.
-For example, five test cases for `stableMatching/libs/runAlgo.m` are validated in 'tests/runAlgoTest.m'.
+For example, five test cases for `stableMatching/libs/runAlgo.m` are validated in `tests/runAlgoTest.m`.
 
 ## Example
 Execution for dummy data are done in `stableMatching/stableMtchDummy.mlx`
