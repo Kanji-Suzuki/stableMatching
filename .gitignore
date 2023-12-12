@@ -1,0 +1,5 @@
+# List of untracked files to ignore
+resources/
+.gitattributes
+stableMatching/libs/.gitattributes
+.DS_Store
